@@ -120,4 +120,10 @@ We aim to maintain a welcoming and inclusive environment for all contributors.
 
 ---
 
+### Legal / License
+
+By contributing to this repository, you agree that your contributions will be licensed under the terms of the [MIT License](LICENSE).
+
+All contributions should be original work or properly credited if derived from other sources.
+
 Happy Coding 🚀
